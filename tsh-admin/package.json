@@ -1,0 +1,23 @@
+{
+  "name": "tsh-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contenedor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mech-dude/tsh-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mech-dude/tsh-admin/issues"
+  },
+  "homepage": "https://github.com/mech-dude/tsh-admin#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
